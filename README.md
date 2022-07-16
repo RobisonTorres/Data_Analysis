@@ -1,2 +1,9 @@
-# Data_Analysis_with_Python
-This repository contains projects that I have built to obtain certification in Data Analysis with Python, from Free Code Camp. 
+# Data Analysis with Python
+
+Projects related to this certification:
+
+   + Mean-Variance-Standard Deviation Calculator<br />
+   + Demographic Data Analyzer<br />
+   + Medical Data Visualizer<br />
+   + Page View Time Series Visualizer<br />
+   + Sea Level Predictor   
